@@ -1,5 +1,5 @@
 # Flixster-Part-1
-# Android Project 3 - *Flixster 1*
+# Android Project 3 - *API*
 
 Submitted by: **Divya Krishna Mamillapalli**
 
